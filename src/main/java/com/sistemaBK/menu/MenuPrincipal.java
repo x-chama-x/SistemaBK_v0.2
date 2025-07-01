@@ -53,6 +53,7 @@ public class MenuPrincipal {
         } else {
             System.out.println("Usuario o contraseña incorrectos");
             pausar();
+            limpiarPantalla();
         }
     }
 }
