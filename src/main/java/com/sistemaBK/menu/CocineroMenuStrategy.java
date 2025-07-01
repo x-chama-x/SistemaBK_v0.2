@@ -28,6 +28,7 @@ public class CocineroMenuStrategy implements MenuStrategy {
             System.out.println("2. Ver pedidos tomados por vendedor");
             System.out.println("3. Ver pedidos despachados");
             System.out.println("4. Salir");
+            System.out.print("Seleccione una opción: ");
 
             int opcion = scanner.nextInt();
             scanner.nextLine();
