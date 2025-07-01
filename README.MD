@@ -6,7 +6,7 @@ Sistema de gestión para restaurante de comida rápida que permite administrar p
 ## Características
 - Gestión de diferentes tipos de usuarios (Gerente, Vendedor, Cocinero, Inspector)
 - Sistema de pedidos con múltiples ítems (Hamburguesas, Bebidas, Papas, Postres)
-- Administración de combos y combos familiares
+- Administración de combos
 - Menús personalizados según rol de usuario
 - Sistema de estados para seguimiento de pedidos
 
@@ -17,3 +17,8 @@ Sistema de gestión para restaurante de comida rápida que permite administrar p
 ## Instalación
 1. Clonar el repositorio
 2. Ejecutar el programa en un IDE compatible con Java
+
+## Grupo de Trabajo
+- Francisco Chiminelli
+- Franco Vilaseco
+- Martin Zembo
