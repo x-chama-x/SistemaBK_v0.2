@@ -10,6 +10,9 @@ Sistema de gestión para restaurante de comida rápida que permite administrar p
 - Menús personalizados según rol de usuario
 - Sistema de estados para seguimiento de pedidos
 
+## Ubicacion de clases
+- estan en la carpeta `SistemaBK_v0.2/tree/master/src/main/java/com/sistemaBK` visto desde el repositorio de GitHub.
+
 ## Requisitos
 - Java 8 o superior
 - Maven
