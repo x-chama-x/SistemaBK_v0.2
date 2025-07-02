@@ -14,13 +14,13 @@ Sistema de gestión para restaurante de comida rápida que permite administrar p
 - estan en la carpeta `SistemaBK_v0.2/tree/master/src/main/java/com/sistemaBK` visto desde el repositorio de GitHub.
 
 ## ARCHIVO .JAR AGREGADO
-- está en la carpeta SistemaBK_v0.2/tree/master/out/artifacts/SistemaBK_v0_2_jar
+- está en la carpeta `SistemaBK_v0.2/tree/master/out/artifacts/SistemaBK_v0_2_jar` visto desde el repositorio de GitHub.
 
 ## UML EN JPG AGREGADO
-- está en la carpeta SistemaBK_v0.2/blob/master/src/main/java/com/sistemaBK/UML.jpg
+- está en la carpeta `SistemaBK_v0.2/blob/master/src/main/java/com/sistemaBK/UML.jpg` visto desde el repositorio de GitHub.
 
 ## DIAGRAMA CASOS DE USO EN JPG AGREGADO
-- está en la carpeta SistemaBK_v0.2/blob/master/src/main/java/com/sistemaBK/DIAGRAMA CASOS DE USO.jpg
+- está en la carpeta `SistemaBK_v0.2/blob/master/src/main/java/com/sistemaBK/DIAGRAMA CASOS DE USO.jpg` visto desde el repositorio de GitHub.
 
 ## Requisitos
 - Java 8 o superior
