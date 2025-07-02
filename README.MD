@@ -26,7 +26,7 @@ Sistema de gestión para restaurante de comida rápida que permite administrar p
 - Java 8 o superior
 - Maven
 
-## Instalación
+## Instalación Recomendada
 1. Clonar el repositorio
 2. Ejecutar el programa en un IDE compatible con Java
 
